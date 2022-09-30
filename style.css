@@ -1,0 +1,122 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.hello{
+    font-size: 50px;
+    font-weight: 300;
+}
+.textHighlight{
+    color: #EC4C7B;
+    font-weight: 700;
+    font-size: 50px;
+}
+.halfWidth{
+    width: 30%;
+    float: left;
+}
+.halfWidthLeft{
+    padding-left: 22%;
+    padding-top: 9%;
+}
+.halfWidthRight{
+    padding-top: 5%;
+}
+.halfWidth img{
+    width: 100%;
+}
+.txt{
+    color: #878080
+}
+.topPart{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 100vh;
+}
+
+.bioLeft{
+    padding-left: 15%;
+    padding-right: 12%;
+    padding-top: 5%;
+}
+.bioRight{
+    padding-top: 13%;
+}
+.bioPart{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.header{
+    font-weight: 600;
+    font-size: 50px;
+}
+.linkDecoration{
+    text-decoration: none;
+    background-color: #EC4C7B;
+    padding: 10px 30px;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.latestWorkPart{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.ltstWork{
+    text-align: center;
+}
+
+.workImage{
+display: flex;
+}
+.workImage img{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+.latestWorkPart{
+    width: 80%;
+    margin: auto;
+}
+.rvwsText{
+    width: 50%;
+    margin: 0 auto;
+}
+.rvwsDiv{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.rvws{
+
+    color: rgb(111 114 116);
+}
+.reviewPart{
+    background-image: url(images/footer-bg.png);
+}
+.leaveMsg{
+ background-color: #EC4C7B;
+ border-radius: 8px;
+ width: 700px;
+ height: 200px;
+margin: auto;
+}
+.leaveMsgText{
+    padding-top: 50px;
+}
+.leaveMsg p{
+    color: white;
+}
+.abc{
+    font-weight: bold;
+}
+.mail{
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    left: 0%;
+    bottom: 0%;
+}
